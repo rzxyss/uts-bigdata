@@ -1,0 +1,886 @@
+[
+  {
+    "province_id": "P01",
+    "province_name": "DKI Jakarta",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 229,
+      "total_isolation_beds": 13511,
+      "total_icu_beds": 1193,
+      "total_ventilators": 799
+    },
+    "vaccination_progress": {
+      "target_population": 8275534,
+      "dose_1_administered": 7728874,
+      "dose_2_administered": 6461345,
+      "booster_administered": 3421301,
+      "dose_2_coverage_pct": 78.08,
+      "booster_coverage_pct": 41.34,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P02",
+    "province_name": "Jawa Barat",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 360,
+      "total_isolation_beds": 16920,
+      "total_icu_beds": 1384,
+      "total_ventilators": 959
+    },
+    "vaccination_progress": {
+      "target_population": 37653846,
+      "dose_1_administered": 35547744,
+      "dose_2_administered": 31197742,
+      "booster_administered": 17503469,
+      "dose_2_coverage_pct": 82.85,
+      "booster_coverage_pct": 46.49,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P03",
+    "province_name": "Jawa Tengah",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 360,
+      "total_isolation_beds": 30960,
+      "total_icu_beds": 3779,
+      "total_ventilators": 2773
+    },
+    "vaccination_progress": {
+      "target_population": 28482507,
+      "dose_1_administered": 26219159,
+      "dose_2_administered": 21922438,
+      "booster_administered": 11440964,
+      "dose_2_coverage_pct": 76.97,
+      "booster_coverage_pct": 40.17,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P04",
+    "province_name": "DI Yogyakarta",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 69,
+      "total_isolation_beds": 6417,
+      "total_icu_beds": 823,
+      "total_ventilators": 649
+    },
+    "vaccination_progress": {
+      "target_population": 2861600,
+      "dose_1_administered": 2618137,
+      "dose_2_administered": 2241793,
+      "booster_administered": 1320259,
+      "dose_2_coverage_pct": 78.34,
+      "booster_coverage_pct": 46.14,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P05",
+    "province_name": "Jawa Timur",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 422,
+      "total_isolation_beds": 27852,
+      "total_icu_beds": 2398,
+      "total_ventilators": 1740
+    },
+    "vaccination_progress": {
+      "target_population": 31719242,
+      "dose_1_administered": 28674989,
+      "dose_2_administered": 24271610,
+      "booster_administered": 14507658,
+      "dose_2_coverage_pct": 76.52,
+      "booster_coverage_pct": 45.74,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P06",
+    "province_name": "Bali",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 60,
+      "total_isolation_beds": 2820,
+      "total_icu_beds": 349,
+      "total_ventilators": 264
+    },
+    "vaccination_progress": {
+      "target_population": 3367575,
+      "dose_1_administered": 3050679,
+      "dose_2_administered": 2628210,
+      "booster_administered": 1388883,
+      "dose_2_coverage_pct": 78.04,
+      "booster_coverage_pct": 41.24,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P07",
+    "province_name": "Banten",
+    "island_group": "Jawa-Bali",
+    "health_facilities": {
+      "referral_hospitals_count": 99,
+      "total_isolation_beds": 8415,
+      "total_icu_beds": 985,
+      "total_ventilators": 810
+    },
+    "vaccination_progress": {
+      "target_population": 9285558,
+      "dose_1_administered": 8982027,
+      "dose_2_administered": 7763010,
+      "booster_administered": 4325580,
+      "dose_2_coverage_pct": 83.6,
+      "booster_coverage_pct": 46.58,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 3"
+  },
+  {
+    "province_id": "P08",
+    "province_name": "Aceh",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 64,
+      "total_isolation_beds": 3776,
+      "total_icu_beds": 477,
+      "total_ventilators": 404
+    },
+    "vaccination_progress": {
+      "target_population": 4114399,
+      "dose_1_administered": 3241056,
+      "dose_2_administered": 2454664,
+      "booster_administered": 1037297,
+      "dose_2_coverage_pct": 59.66,
+      "booster_coverage_pct": 25.21,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P09",
+    "province_name": "Sumatera Utara",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 139,
+      "total_isolation_beds": 10286,
+      "total_icu_beds": 1215,
+      "total_ventilators": 878
+    },
+    "vaccination_progress": {
+      "target_population": 11543501,
+      "dose_1_administered": 9414091,
+      "dose_2_administered": 7251850,
+      "booster_administered": 3306935,
+      "dose_2_coverage_pct": 62.82,
+      "booster_coverage_pct": 28.65,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P10",
+    "province_name": "Sumatera Barat",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 64,
+      "total_isolation_beds": 5632,
+      "total_icu_beds": 669,
+      "total_ventilators": 516
+    },
+    "vaccination_progress": {
+      "target_population": 4316888,
+      "dose_1_administered": 3311131,
+      "dose_2_administered": 2376599,
+      "booster_administered": 1056868,
+      "dose_2_coverage_pct": 55.05,
+      "booster_coverage_pct": 24.48,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P11",
+    "province_name": "Riau",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 52,
+      "total_isolation_beds": 3588,
+      "total_icu_beds": 345,
+      "total_ventilators": 288
+    },
+    "vaccination_progress": {
+      "target_population": 4987387,
+      "dose_1_administered": 3726145,
+      "dose_2_administered": 2829374,
+      "booster_administered": 1228911,
+      "dose_2_coverage_pct": 56.73,
+      "booster_coverage_pct": 24.64,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P12",
+    "province_name": "Jambi",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 30,
+      "total_isolation_beds": 2820,
+      "total_icu_beds": 356,
+      "total_ventilators": 247
+    },
+    "vaccination_progress": {
+      "target_population": 2767617,
+      "dose_1_administered": 2210817,
+      "dose_2_administered": 1588625,
+      "booster_administered": 715561,
+      "dose_2_coverage_pct": 57.4,
+      "booster_coverage_pct": 25.85,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P13",
+    "province_name": "Sumatera Selatan",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 66,
+      "total_isolation_beds": 3828,
+      "total_icu_beds": 515,
+      "total_ventilators": 393
+    },
+    "vaccination_progress": {
+      "target_population": 6604596,
+      "dose_1_administered": 4842555,
+      "dose_2_administered": 3516838,
+      "booster_administered": 1564198,
+      "dose_2_coverage_pct": 53.25,
+      "booster_coverage_pct": 23.68,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P14",
+    "province_name": "Bengkulu",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 19,
+      "total_isolation_beds": 1634,
+      "total_icu_beds": 175,
+      "total_ventilators": 123
+    },
+    "vaccination_progress": {
+      "target_population": 1568322,
+      "dose_1_administered": 1257467,
+      "dose_2_administered": 902874,
+      "booster_administered": 422475,
+      "dose_2_coverage_pct": 57.57,
+      "booster_coverage_pct": 26.94,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P15",
+    "province_name": "Lampung",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 62,
+      "total_isolation_beds": 5084,
+      "total_icu_beds": 537,
+      "total_ventilators": 411
+    },
+    "vaccination_progress": {
+      "target_population": 7026121,
+      "dose_1_administered": 5302351,
+      "dose_2_administered": 3955073,
+      "booster_administered": 1757136,
+      "dose_2_coverage_pct": 56.29,
+      "booster_coverage_pct": 25.01,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P16",
+    "province_name": "Kepulauan Bangka Belitung",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 14,
+      "total_isolation_beds": 1064,
+      "total_icu_beds": 90,
+      "total_ventilators": 59
+    },
+    "vaccination_progress": {
+      "target_population": 1135428,
+      "dose_1_administered": 869964,
+      "dose_2_administered": 679255,
+      "booster_administered": 293324,
+      "dose_2_coverage_pct": 59.82,
+      "booster_coverage_pct": 25.83,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P17",
+    "province_name": "Kepulauan Riau",
+    "island_group": "Sumatera",
+    "health_facilities": {
+      "referral_hospitals_count": 26,
+      "total_isolation_beds": 1872,
+      "total_icu_beds": 216,
+      "total_ventilators": 157
+    },
+    "vaccination_progress": {
+      "target_population": 1610359,
+      "dose_1_administered": 1193219,
+      "dose_2_administered": 896340,
+      "booster_administered": 445667,
+      "dose_2_coverage_pct": 55.66,
+      "booster_coverage_pct": 27.68,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P18",
+    "province_name": "Kalimantan Barat",
+    "island_group": "Kalimantan",
+    "health_facilities": {
+      "referral_hospitals_count": 38,
+      "total_isolation_beds": 3040,
+      "total_icu_beds": 400,
+      "total_ventilators": 260
+    },
+    "vaccination_progress": {
+      "target_population": 4223224,
+      "dose_1_administered": 2785591,
+      "dose_2_administered": 1712982,
+      "booster_administered": 625480,
+      "dose_2_coverage_pct": 40.56,
+      "booster_coverage_pct": 14.81,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P19",
+    "province_name": "Kalimantan Tengah",
+    "island_group": "Kalimantan",
+    "health_facilities": {
+      "referral_hospitals_count": 21,
+      "total_isolation_beds": 1302,
+      "total_icu_beds": 164,
+      "total_ventilators": 117
+    },
+    "vaccination_progress": {
+      "target_population": 2082600,
+      "dose_1_administered": 1399657,
+      "dose_2_administered": 884634,
+      "booster_administered": 348277,
+      "dose_2_coverage_pct": 42.48,
+      "booster_coverage_pct": 16.72,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P20",
+    "province_name": "Kalimantan Selatan",
+    "island_group": "Kalimantan",
+    "health_facilities": {
+      "referral_hospitals_count": 38,
+      "total_isolation_beds": 3458,
+      "total_icu_beds": 458,
+      "total_ventilators": 321
+    },
+    "vaccination_progress": {
+      "target_population": 3177395,
+      "dose_1_administered": 1999693,
+      "dose_2_administered": 1180124,
+      "booster_administered": 401625,
+      "dose_2_coverage_pct": 37.14,
+      "booster_coverage_pct": 12.64,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P21",
+    "province_name": "Kalimantan Timur",
+    "island_group": "Kalimantan",
+    "health_facilities": {
+      "referral_hospitals_count": 41,
+      "total_isolation_beds": 3485,
+      "total_icu_beds": 341,
+      "total_ventilators": 265
+    },
+    "vaccination_progress": {
+      "target_population": 2937510,
+      "dose_1_administered": 1909553,
+      "dose_2_administered": 1130058,
+      "booster_administered": 487351,
+      "dose_2_coverage_pct": 38.47,
+      "booster_coverage_pct": 16.59,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P22",
+    "province_name": "Kalimantan Utara",
+    "island_group": "Kalimantan",
+    "health_facilities": {
+      "referral_hospitals_count": 6,
+      "total_isolation_beds": 474,
+      "total_icu_beds": 65,
+      "total_ventilators": 54
+    },
+    "vaccination_progress": {
+      "target_population": 547414,
+      "dose_1_administered": 361784,
+      "dose_2_administered": 213353,
+      "booster_administered": 88808,
+      "dose_2_coverage_pct": 38.97,
+      "booster_coverage_pct": 16.22,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P23",
+    "province_name": "Sulawesi Utara",
+    "island_group": "Sulawesi",
+    "health_facilities": {
+      "referral_hospitals_count": 31,
+      "total_isolation_beds": 1612,
+      "total_icu_beds": 218,
+      "total_ventilators": 180
+    },
+    "vaccination_progress": {
+      "target_population": 2045099,
+      "dose_1_administered": 1414900,
+      "dose_2_administered": 884900,
+      "booster_administered": 344102,
+      "dose_2_coverage_pct": 43.27,
+      "booster_coverage_pct": 16.83,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P24",
+    "province_name": "Sulawesi Tengah",
+    "island_group": "Sulawesi",
+    "health_facilities": {
+      "referral_hospitals_count": 22,
+      "total_isolation_beds": 1782,
+      "total_icu_beds": 243,
+      "total_ventilators": 162
+    },
+    "vaccination_progress": {
+      "target_population": 2328872,
+      "dose_1_administered": 1591007,
+      "dose_2_administered": 957947,
+      "booster_administered": 331250,
+      "dose_2_coverage_pct": 41.13,
+      "booster_coverage_pct": 14.22,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P25",
+    "province_name": "Sulawesi Selatan",
+    "island_group": "Sulawesi",
+    "health_facilities": {
+      "referral_hospitals_count": 104,
+      "total_isolation_beds": 9776,
+      "total_icu_beds": 855,
+      "total_ventilators": 668
+    },
+    "vaccination_progress": {
+      "target_population": 7077330,
+      "dose_1_administered": 4590349,
+      "dose_2_administered": 2676343,
+      "booster_administered": 1113519,
+      "dose_2_coverage_pct": 37.82,
+      "booster_coverage_pct": 15.73,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P26",
+    "province_name": "Sulawesi Tenggara",
+    "island_group": "Sulawesi",
+    "health_facilities": {
+      "referral_hospitals_count": 20,
+      "total_isolation_beds": 1660,
+      "total_icu_beds": 174,
+      "total_ventilators": 120
+    },
+    "vaccination_progress": {
+      "target_population": 2047402,
+      "dose_1_administered": 1422299,
+      "dose_2_administered": 840166,
+      "booster_administered": 329989,
+      "dose_2_coverage_pct": 41.04,
+      "booster_coverage_pct": 16.12,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P27",
+    "province_name": "Gorontalo",
+    "island_group": "Sulawesi",
+    "health_facilities": {
+      "referral_hospitals_count": 10,
+      "total_isolation_beds": 640,
+      "total_icu_beds": 66,
+      "total_ventilators": 51
+    },
+    "vaccination_progress": {
+      "target_population": 913911,
+      "dose_1_administered": 597633,
+      "dose_2_administered": 380031,
+      "booster_administered": 136854,
+      "dose_2_coverage_pct": 41.58,
+      "booster_coverage_pct": 14.97,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P28",
+    "province_name": "Sulawesi Barat",
+    "island_group": "Sulawesi",
+    "health_facilities": {
+      "referral_hospitals_count": 9,
+      "total_isolation_beds": 540,
+      "total_icu_beds": 50,
+      "total_ventilators": 35
+    },
+    "vaccination_progress": {
+      "target_population": 1106998,
+      "dose_1_administered": 705536,
+      "dose_2_administered": 458223,
+      "booster_administered": 176483,
+      "dose_2_coverage_pct": 41.39,
+      "booster_coverage_pct": 15.94,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P29",
+    "province_name": "Nusa Tenggara Barat",
+    "island_group": "Maluku-Papua-Nusa Tenggara",
+    "health_facilities": {
+      "referral_hospitals_count": 45,
+      "total_isolation_beds": 2205,
+      "total_icu_beds": 270,
+      "total_ventilators": 178
+    },
+    "vaccination_progress": {
+      "target_population": 4149671,
+      "dose_1_administered": 2733931,
+      "dose_2_administered": 1629174,
+      "booster_administered": 589796,
+      "dose_2_coverage_pct": 39.26,
+      "booster_coverage_pct": 14.21,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P30",
+    "province_name": "Nusa Tenggara Timur",
+    "island_group": "Maluku-Papua-Nusa Tenggara",
+    "health_facilities": {
+      "referral_hospitals_count": 35,
+      "total_isolation_beds": 2695,
+      "total_icu_beds": 254,
+      "total_ventilators": 199
+    },
+    "vaccination_progress": {
+      "target_population": 4153941,
+      "dose_1_administered": 2520362,
+      "dose_2_administered": 1461842,
+      "booster_administered": 545329,
+      "dose_2_coverage_pct": 35.19,
+      "booster_coverage_pct": 13.13,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P31",
+    "province_name": "Maluku",
+    "island_group": "Maluku-Papua-Nusa Tenggara",
+    "health_facilities": {
+      "referral_hospitals_count": 17,
+      "total_isolation_beds": 1377,
+      "total_icu_beds": 157,
+      "total_ventilators": 109
+    },
+    "vaccination_progress": {
+      "target_population": 1442159,
+      "dose_1_administered": 896191,
+      "dose_2_administered": 527036,
+      "booster_administered": 228497,
+      "dose_2_coverage_pct": 36.54,
+      "booster_coverage_pct": 15.84,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P32",
+    "province_name": "Maluku Utara",
+    "island_group": "Maluku-Papua-Nusa Tenggara",
+    "health_facilities": {
+      "referral_hospitals_count": 11,
+      "total_isolation_beds": 957,
+      "total_icu_beds": 101,
+      "total_ventilators": 74
+    },
+    "vaccination_progress": {
+      "target_population": 1000690,
+      "dose_1_administered": 647743,
+      "dose_2_administered": 395165,
+      "booster_administered": 138083,
+      "dose_2_coverage_pct": 39.49,
+      "booster_coverage_pct": 13.8,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P33",
+    "province_name": "Papua Barat",
+    "island_group": "Maluku-Papua-Nusa Tenggara",
+    "health_facilities": {
+      "referral_hospitals_count": 8,
+      "total_isolation_beds": 688,
+      "total_icu_beds": 59,
+      "total_ventilators": 43
+    },
+    "vaccination_progress": {
+      "target_population": 884573,
+      "dose_1_administered": 572055,
+      "dose_2_administered": 363727,
+      "booster_administered": 148159,
+      "dose_2_coverage_pct": 41.12,
+      "booster_coverage_pct": 16.75,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  },
+  {
+    "province_id": "P34",
+    "province_name": "Papua",
+    "island_group": "Maluku-Papua-Nusa Tenggara",
+    "health_facilities": {
+      "referral_hospitals_count": 28,
+      "total_isolation_beds": 1596,
+      "total_icu_beds": 179,
+      "total_ventilators": 121
+    },
+    "vaccination_progress": {
+      "target_population": 3356891,
+      "dose_1_administered": 2128034,
+      "dose_2_administered": 1375633,
+      "booster_administered": 501921,
+      "dose_2_coverage_pct": 40.98,
+      "booster_coverage_pct": 14.95,
+      "vaccine_types_available": [
+        "Sinovac",
+        "AstraZeneca",
+        "Pfizer",
+        "Moderna"
+      ]
+    },
+    "surveillance_level": "Level 2"
+  }
+]
